@@ -15,7 +15,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Demo05-Ternaire", "Demo05-T
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Demo06-Coalesce", "Demo06-Coalesce\Demo06-Coalesce.csproj", "{2FA3D5D7-8C34-456B-B563-EB3ECA6463C1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo07-Boucles", "Demo07-Boucles\Demo07-Boucles.csproj", "{D00945CA-BEF4-4A4D-AFB2-57998B4F472C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Demo07-Boucles", "Demo07-Boucles\Demo07-Boucles.csproj", "{D00945CA-BEF4-4A4D-AFB2-57998B4F472C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo08-Tableau", "Demo08-Tableau\Demo08-Tableau.csproj", "{F76F2B5C-4D72-4A35-AAD9-5A478E0AB827}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -51,6 +53,10 @@ Global
 		{D00945CA-BEF4-4A4D-AFB2-57998B4F472C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D00945CA-BEF4-4A4D-AFB2-57998B4F472C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D00945CA-BEF4-4A4D-AFB2-57998B4F472C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F76F2B5C-4D72-4A35-AAD9-5A478E0AB827}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F76F2B5C-4D72-4A35-AAD9-5A478E0AB827}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F76F2B5C-4D72-4A35-AAD9-5A478E0AB827}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F76F2B5C-4D72-4A35-AAD9-5A478E0AB827}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
