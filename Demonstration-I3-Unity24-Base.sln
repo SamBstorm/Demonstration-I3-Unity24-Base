@@ -21,6 +21,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Demo08-Tableau", "Demo08-Ta
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo09-CollectionGeneric", "Demo09-CollectionGeneric\Demo09-CollectionGeneric.csproj", "{1DCEE041-232C-415E-A0FA-8C9637A81603}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo10-CollectionGeneric-Dictionary", "Demo10-CollectionGeneric-Dictionary\Demo10-CollectionGeneric-Dictionary.csproj", "{1B594E29-FB07-40F6-9BA7-0D6E5654F747}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -63,6 +65,10 @@ Global
 		{1DCEE041-232C-415E-A0FA-8C9637A81603}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1DCEE041-232C-415E-A0FA-8C9637A81603}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1DCEE041-232C-415E-A0FA-8C9637A81603}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1B594E29-FB07-40F6-9BA7-0D6E5654F747}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1B594E29-FB07-40F6-9BA7-0D6E5654F747}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1B594E29-FB07-40F6-9BA7-0D6E5654F747}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1B594E29-FB07-40F6-9BA7-0D6E5654F747}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
