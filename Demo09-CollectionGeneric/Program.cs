@@ -21,7 +21,17 @@ do
     {
         case "A":
             Console.WriteLine("Veuillez indiquer le nouvel article à ajouter:");
-            courses.Add(Console.ReadLine());
+            string article = Console.ReadLine();
+            if (courses.Contains(article))
+            {
+                Console.WriteLine("Cet article est déjà présent...");
+            }
+            else
+            {
+                courses.Add(article);
+                Console.WriteLine("L'article a été ajouté avec succès!");
+            }
+            Console.ReadLine();
             break;
         case "S":
             Console.WriteLine("Veuillez indiquer l'article à supprimer:");
