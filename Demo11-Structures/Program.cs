@@ -1,11 +1,11 @@
-﻿RedGreenBlue rgbBody;
+﻿RedGreenBlue rgbBody = new RedGreenBlue();
 rgbBody.red = 240;
 rgbBody.green = 240;
 rgbBody.blue = 240;
-rgbBody.opacity = 0.5F;
+//rgbBody.opacity = 0.5F;
 
 Console.WriteLine($"Le fond de mon site web à une couleur rgb({rgbBody.red},{rgbBody.green}, {rgbBody.blue})");
-Console.WriteLine($"Le fond est transparent à {rgbBody.opacity * 100} %");
+Console.WriteLine($"Le fond est opaque à {rgbBody.opacity * 100} %");
 
 
 public struct RedGreenBlue
