@@ -19,9 +19,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Demo07-Boucles", "Demo07-Bo
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Demo08-Tableau", "Demo08-Tableau\Demo08-Tableau.csproj", "{F76F2B5C-4D72-4A35-AAD9-5A478E0AB827}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo09-CollectionGeneric", "Demo09-CollectionGeneric\Demo09-CollectionGeneric.csproj", "{1DCEE041-232C-415E-A0FA-8C9637A81603}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Demo09-CollectionGeneric", "Demo09-CollectionGeneric\Demo09-CollectionGeneric.csproj", "{1DCEE041-232C-415E-A0FA-8C9637A81603}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo10-CollectionGeneric-Dictionary", "Demo10-CollectionGeneric-Dictionary\Demo10-CollectionGeneric-Dictionary.csproj", "{1B594E29-FB07-40F6-9BA7-0D6E5654F747}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Demo10-CollectionGeneric-Dictionary", "Demo10-CollectionGeneric-Dictionary\Demo10-CollectionGeneric-Dictionary.csproj", "{1B594E29-FB07-40F6-9BA7-0D6E5654F747}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo11-Structures", "Demo11-Structures\Demo11-Structures.csproj", "{BA9B3E51-A38A-42E9-BBA3-CB44EA091E5C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -69,6 +71,10 @@ Global
 		{1B594E29-FB07-40F6-9BA7-0D6E5654F747}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1B594E29-FB07-40F6-9BA7-0D6E5654F747}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1B594E29-FB07-40F6-9BA7-0D6E5654F747}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BA9B3E51-A38A-42E9-BBA3-CB44EA091E5C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA9B3E51-A38A-42E9-BBA3-CB44EA091E5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA9B3E51-A38A-42E9-BBA3-CB44EA091E5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA9B3E51-A38A-42E9-BBA3-CB44EA091E5C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
