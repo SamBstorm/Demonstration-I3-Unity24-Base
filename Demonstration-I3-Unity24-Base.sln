@@ -25,6 +25,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Demo10-CollectionGeneric-Di
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo11-Structures", "Demo11-Structures\Demo11-Structures.csproj", "{BA9B3E51-A38A-42E9-BBA3-CB44EA091E5C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo12-StructureTableau", "Demo12-StructureTableau\Demo12-StructureTableau.csproj", "{D56B2C72-BF20-4337-9318-933312357640}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -75,6 +77,10 @@ Global
 		{BA9B3E51-A38A-42E9-BBA3-CB44EA091E5C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BA9B3E51-A38A-42E9-BBA3-CB44EA091E5C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BA9B3E51-A38A-42E9-BBA3-CB44EA091E5C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D56B2C72-BF20-4337-9318-933312357640}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D56B2C72-BF20-4337-9318-933312357640}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D56B2C72-BF20-4337-9318-933312357640}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D56B2C72-BF20-4337-9318-933312357640}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
