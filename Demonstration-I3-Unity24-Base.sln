@@ -23,11 +23,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Demo09-CollectionGeneric", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Demo10-CollectionGeneric-Dictionary", "Demo10-CollectionGeneric-Dictionary\Demo10-CollectionGeneric-Dictionary.csproj", "{1B594E29-FB07-40F6-9BA7-0D6E5654F747}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo11-Structures", "Demo11-Structures\Demo11-Structures.csproj", "{BA9B3E51-A38A-42E9-BBA3-CB44EA091E5C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Demo11-Structures", "Demo11-Structures\Demo11-Structures.csproj", "{BA9B3E51-A38A-42E9-BBA3-CB44EA091E5C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo12-StructureTableau", "Demo12-StructureTableau\Demo12-StructureTableau.csproj", "{D56B2C72-BF20-4337-9318-933312357640}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Demo12-StructureTableau", "Demo12-StructureTableau\Demo12-StructureTableau.csproj", "{D56B2C72-BF20-4337-9318-933312357640}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo13-LesMethodes", "Demo13-LesMethodes\Demo13-LesMethodes.csproj", "{457EFF3F-6458-4130-9537-A7373BB62569}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Demo13-LesMethodes", "Demo13-LesMethodes\Demo13-LesMethodes.csproj", "{457EFF3F-6458-4130-9537-A7373BB62569}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Demo14-Enumerations", "Demo14-Enumerations\Demo14-Enumerations.csproj", "{0C2EB89C-A2AA-4AB1-82B6-4C152B0F7245}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -87,6 +89,10 @@ Global
 		{457EFF3F-6458-4130-9537-A7373BB62569}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{457EFF3F-6458-4130-9537-A7373BB62569}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{457EFF3F-6458-4130-9537-A7373BB62569}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0C2EB89C-A2AA-4AB1-82B6-4C152B0F7245}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C2EB89C-A2AA-4AB1-82B6-4C152B0F7245}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C2EB89C-A2AA-4AB1-82B6-4C152B0F7245}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C2EB89C-A2AA-4AB1-82B6-4C152B0F7245}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
